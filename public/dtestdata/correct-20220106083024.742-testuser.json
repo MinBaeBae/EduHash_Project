@@ -1,0 +1,62 @@
+{
+  "SUCCESS": true,
+  "ERROR": null,
+  "DATA": [
+    {
+      "TEST_TYP": "02",
+      "TEST_ID": "testuser",
+      "TEST_NAME": "김철수",
+      "RELEASE_DATE": "2022-01-06T00:00:00.000Z",
+      "RELEASE_DATE_YM": "2022-01",
+      "TEST_SUBJECT_CODE": 34,
+      "SUBJECT_NAME": "헌법(진도별)",
+      "INDEX_LV1": "34_01",
+      "INDEX_NAME_LV1": "헌법",
+      "O_COUNT": "18",
+      "T_COUNT": 40,
+      "O_RATE": "45.0"
+    },
+    {
+      "TEST_TYP": "02",
+      "TEST_ID": "testuser",
+      "TEST_NAME": "김철수",
+      "RELEASE_DATE": "2022-02-17T00:00:00.000Z",
+      "RELEASE_DATE_YM": "2022-02",
+      "TEST_SUBJECT_CODE": 34,
+      "SUBJECT_NAME": "헌법(진도별)",
+      "INDEX_LV1": "34_01",
+      "INDEX_NAME_LV1": "헌법",
+      "O_COUNT": "7",
+      "T_COUNT": 10,
+      "O_RATE": "70.0"
+    },
+    {
+      "TEST_TYP": "02",
+      "TEST_ID": "testuser",
+      "TEST_NAME": "김철수",
+      "RELEASE_DATE": "2022-03-03T00:00:00.000Z",
+      "RELEASE_DATE_YM": "2022-03",
+      "TEST_SUBJECT_CODE": 34,
+      "SUBJECT_NAME": "헌법(진도별)",
+      "INDEX_LV1": "34_01",
+      "INDEX_NAME_LV1": "헌법",
+      "O_COUNT": "14",
+      "T_COUNT": 20,
+      "O_RATE": "70.0"
+    },
+    {
+      "TEST_TYP": "02",
+      "TEST_ID": "testuser",
+      "TEST_NAME": "김철수",
+      "RELEASE_DATE": "2022-05-05T00:00:00.000Z",
+      "RELEASE_DATE_YM": "2022-05",
+      "TEST_SUBJECT_CODE": 34,
+      "SUBJECT_NAME": "헌법(진도별)",
+      "INDEX_LV1": "34_01",
+      "INDEX_NAME_LV1": "헌법",
+      "O_COUNT": "14",
+      "T_COUNT": 20,
+      "O_RATE": "70.0"
+    }
+  ]
+}

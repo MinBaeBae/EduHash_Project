@@ -1,0 +1,10 @@
+{
+  "SUCCESS": true,
+  "ERROR": null,
+  "DATA": {
+    "NAME": "김철수",
+    "PHONE": "010-1122-3344",
+    "ADDRESS": "서울특별시 강남구 미양빌딩",
+    "BIRTH": "2000년 5월 5일"
+  }
+}
